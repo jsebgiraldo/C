@@ -3,7 +3,7 @@
  *
  *  Created on: Jan 29, 2023
  *      Author: Juan Sebastian Giraldo Duque
- * 		github: https://github.com/jsebgiraldo
+ * 		github: https://github.com/jsebgiraldo/C/tree/main/data_structures/queue
  */
 
 /*

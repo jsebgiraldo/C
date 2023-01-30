@@ -1,10 +1,10 @@
-#Queue Management
+# Queue Management
 
 Queues are the primary form of intertask communications. They can be used to send messages between tasks, and between interrupts and tasks. In most cases they are used as thread safe FIFO (First In First Out) buffers with new data being sent to the back of the queue, although data can also be sent to the front.
 
 ![queue](https://www.freertos.org/fr-content-src/uploads/2018/07/queue_animation.gif)
 
-##Modules
+## Modules
 
 * ***xQueueCreate***
 * ***vQueueDelete***
@@ -69,7 +69,7 @@ int main()
 }
 ```
 
-##Files
+## Files
 
 * queue.c - queue implementations
 * queue.h - import for usage
